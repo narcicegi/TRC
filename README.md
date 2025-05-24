@@ -1,5 +1,6 @@
 # TRC
 Network Reconstruction from Mean-Fields
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15500519.svg)](https://doi.org/10.5281/zenodo.15500519)
 
 This code accompanies the paper 'Unique Reconstruction From Mean-Field Measurements' by Narcicegi Kiran and Tiago Pereira (2025).
 
